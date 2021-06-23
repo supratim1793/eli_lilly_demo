@@ -1,0 +1,63 @@
+.main-body{
+    text-align: center;
+    font-family: Roboto,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 18px;
+}
+
+a:link, a:visited {
+    background-color: #f01716;
+    border: 2px solid;
+    border-color: white;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+  a:hover, a:active {
+    color: #f01716;
+    border-color: #f01716;
+    background-color: white;
+    font-weight: bold;
+    box-shadow: 0 4px 8px 0 #f01716, 0 3px 10px 0 #f01716;
+  }
+
+.sub-heading{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 20px;
+}
+
+.login-link{
+    font-size: 20px;
+    cursor: pointer;
+    padding-bottom: 5%;
+    display: inline-block;
+}
+
+.main-button > button{
+    background-color: #f01716;
+    border: 2px solid;
+    border-color: white;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 10px;
+    
+}
+
+.main-button > button:hover{
+    color: #f01716;
+    border-color: #f01716;
+    background-color: white;
+    font-weight: bold;
+    box-shadow: 0 4px 8px 0 #f01716, 0 3px 10px 0 #f01716;
+}
